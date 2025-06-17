@@ -1,0 +1,13 @@
+{
+	"output": "ambient_example.wav",
+	"duration": 120.0,
+	"sample_rate": 44100,
+	"voices": 6,
+	"base_freq": 220.0,
+	"lfo_rate_range": [0.02, 0.15],
+	"noise_level": 0.01,
+	"mod_depth_range": [0.3, 0.8],
+	"attack": 8.0,
+	"release": 15.0,
+	"reverb_mix": 0.4
+}

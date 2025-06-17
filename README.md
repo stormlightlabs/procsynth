@@ -1,6 +1,7 @@
 # Procsynth
 
-This project is an algorithmic music generator with an artwork generator.
+This project is an algorithmic music generator with an artwork generator, made primarily
+for ambient music, a form he once dreamed to be "as ignorable as it is interesting."
 
 ## Overview
 
